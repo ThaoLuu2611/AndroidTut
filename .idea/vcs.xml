@@ -4,6 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/AndroidTut" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MSA" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RepeatReminder" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/RxJavaViewModelTut" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SmartCard" vcs="Git" />
   </component>
